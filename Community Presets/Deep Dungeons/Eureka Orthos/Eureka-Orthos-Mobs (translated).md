@@ -1,6 +1,6 @@
 # Eureka Orthos Mobs
 
-Refer to [DeepDungeonDex](https://github.com/wolfcomp/DeepDungeonDex) to display the enemy's detection ranges and weaknesses/resistances.
+Refer to [Monsterdex](https://github.com/wolfcomp/MonsterDex) to display the enemy's detection ranges and weaknesses/resistances.
 
 Display range : 40m
 
