@@ -4,7 +4,7 @@ Refer to [DeepDungeonDex](https://github.com/wolfcomp/DeepDungeonDex) to display
 
 Display range : 40m
 
-Missing 1-20F (@Saulchar on Discord is making them)
+Missing 1-20F
 
 * 1-10F
 ```
